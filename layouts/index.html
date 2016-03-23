@@ -1,0 +1,10 @@
+{{ partial "header.html" . }}
+
+<div class="row">
+    {{ range .Data.Pages }}
+    {{ .Render "thumbnail"}}
+    {{ end }}
+</div>
+
+{{ partial "contribute.html" . }}
+{{ partial "footer.html" . }}

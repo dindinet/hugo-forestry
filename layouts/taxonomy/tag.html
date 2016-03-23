@@ -1,0 +1,12 @@
+{{ partial "header.html" . }}
+
+<h1 id="title">All themes tagged with "{{ .Title | lower }}"</h1>
+
+<div class="row">
+    {{ range .Data.Pages }}
+        {{ .Render "thumbnail" }}
+    {{ end }}
+</div>
+
+{{ partial "contribute.html" . }}
+{{ partial "footer.html" . }}

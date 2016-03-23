@@ -1,4 +1,8 @@
-baseurl = "http://localhost:1313/"
-languageCode = "en-uk"
-title = "Hugone"
+baseurl = "http://hugo.dindi.net"
+languageCode = "en-us"
+title = "Hugo Themes"
 MetaDataFormat = "yaml"
+
+[blackfriday]
+plainIdAnchors=true
+
