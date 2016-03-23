@@ -1,0 +1,4 @@
+baseurl = "http://localhost:1313/"
+languageCode = "en-uk"
+title = "Hugone"
+MetaDataFormat = "yaml"
