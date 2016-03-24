@@ -6,4 +6,16 @@
     <priority>0</priority>
   </url>
   
+  <url>
+    <loc>http://hugo.dindi.net/page/about/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugo.dindi.net/post/continue/</loc>
+  </url>
+  
+  <url>
+    <loc>http://hugo.dindi.net/post/start/</loc>
+  </url>
+  
 </urlset>
