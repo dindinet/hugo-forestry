@@ -6,8 +6,10 @@ name: About
 draft: false
 
 ---
-## All About that face
+## We are small but ingenious
 
-When you see it you will know
+We Travel around the forest on aircraft made from dry leaves
 
 ![](//lh3.googleusercontent.com/-it27q1N0Pi8/VKBB6u4gKLI/AAAAAAAAJVw/pBxtmS9HAB0cUfgplnxaWgJOcsgi5N6ogCCo/s800-Ic42/3c5b1150-c5c6-4ea1-9225-a4d3061725d5)
+
+We are developing technology to shrink forest animals
