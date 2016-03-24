@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Page on Hugo Themes</title>
+    <link>http://hugo.dindi.net/page/</link>
+    <description>Recent content in Page on Hugo Themes</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <atom:link href="http://hugo.dindi.net/page/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title></title>
+      <link>http://hugo.dindi.net/page/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://hugo.dindi.net/page/about/</guid>
+      <description>
+
+&lt;h2 id=&#34;all-about-that-face:6083a88ee3411b0d17ce02d738f69d47&#34;&gt;All About that face&lt;/h2&gt;
+
+&lt;p&gt;When you see it you will know&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
