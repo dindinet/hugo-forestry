@@ -1,8 +1,11 @@
 baseurl = "http://hugo.dindi.net"
-languageCode = "en-us"
+languagecode = "en-us"
+metadataformat = "yaml"
+pluralizelisttitles = false
 title = "Hugo Themes"
-MetaDataFormat = "yaml"
-
 [blackfriday]
-plainIdAnchors=true
-
+plainIdAnchors = true
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
