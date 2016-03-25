@@ -1,8 +1,9 @@
 baseurl = "http://hugo.dindi.net"
 languagecode = "en-us"
 metadataformat = "yaml"
+defaultExtension: "md"
 pluralizelisttitles = false
-title = "Hugo Themes"
+title = "Hugo Forestry"
 [blackfriday]
 plainIdAnchors = true
 [sitemap]
