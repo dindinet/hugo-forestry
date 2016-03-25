@@ -4,6 +4,7 @@ languagecode = "en-us"
 metadataformat = "yaml"
 pluralizelisttitles = false
 title = "Hugo Forestry"
+watch = true
 [blackfriday]
 plainIdAnchors = true
 [sitemap]
