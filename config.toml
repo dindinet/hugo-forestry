@@ -1,5 +1,5 @@
 baseurl = "http://hugo.dindi.net"
-defaultExtension = "md"
+defaultextension = "md"
 languagecode = "en-us"
 metadataformat = "yaml"
 pluralizelisttitles = false
