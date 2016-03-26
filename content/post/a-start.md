@@ -27,6 +27,14 @@ It's something for all the family
 * Document Distribution
 * SEM
 
-#### SEO & Analytics
-Get found and find out what happens
+#### Analytics & Reporting
+
+### Why dindi.net
+
+1. SImon
+2. Steve
+3. Clarity
+4. Logistics
+5. MaxGoldHouse
+
 ![](http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png)
