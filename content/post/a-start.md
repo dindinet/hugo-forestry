@@ -46,5 +46,5 @@ It's something for all the family
 
 <row>
 <div><ul><li><a href="" slide="one">One</a></li><li><a href="" slide="two">Two</a></li><li><a href="" slide="three">Three</a></li></ul></div>
-<div><div id="one"></div><div id="two"></div><div id="three"></div></div>
+<div><div id="one">We are showing one</div><div id="two">We are showing 2</div><div id="three">we are showing 3</div></div>
 </row>
