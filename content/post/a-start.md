@@ -30,6 +30,8 @@ It's something for all the family
 
 #### Analytics & Reporting
 
+#### Database Design & Management
+
 ### Why dindi.net
 
 1. SImon
@@ -37,5 +39,7 @@ It's something for all the family
 3. Clarity
 4. Logistics
 5. MaxGoldHouse
+
+### E-Book - What You Have To Do
 
 ![](http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png)
