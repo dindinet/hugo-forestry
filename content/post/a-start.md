@@ -15,7 +15,7 @@ It's something for all the family
 ### How You Can Achieve More
 #### Website Implementation
 * SEO
-* Web Design - layout - graphic design
+* Web Design - layout - graphic design - fonts - colors
 * Data Collection - Surveys - Form Handlers
 * E-Commerce
 * CMS
