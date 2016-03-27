@@ -23,6 +23,7 @@ It's something for all the family
 
 #### E-Marketing
 * Email List Management
+* A/B Testing
 * Email Marketing/Distribution [tiny letter](http://tinyletter.com/) - [Mailchimp](https://mailchimp.com) - [Sendgrid](https://sendgrid.com/)
 * Content/Inbound Marketing Content Planning/Creation
 * Document Distribution
