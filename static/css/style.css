@@ -4,7 +4,8 @@
 /* ******************************
  For the github btn
 ****************************** */
-
+.hide{display: none;}
+.show{display: block;}
 .content { margin-top: 3em; border-top: 1px solid gray;}
 .content img { max-width: 80%;}
 
