@@ -48,4 +48,4 @@ It's something for all the family
 <div class="col-md-3"><ul id="slidemenu"><li><a href="#" slide="one">One</a></li><li><a href="#" slide="two ">Two</a></li><li><a href="#" slide="three">Three</a></li></ul></div>
 <div id="slidemenu" class="col-md-9"><div id="one">We are showing one</div><div id="two" class="hide">We are showing 2</div><div id="three " class="hide">we are showing 3</div></div>
 </row>
-<script type="text/javascript" src="js/slides.js"></script>
+<script type="text/javascript" src="../../js/slides.js"></script>
