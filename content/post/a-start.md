@@ -52,7 +52,7 @@ It's something for all the family
 <h4>Website Implementation</h4>
 </a></li>
 <li><a href="#slidemenu" slide="two "><h4>E-Marketing</h4></a></li>
-<li><a href="#slidemenu" slide="three">Three</a></li></ul></div>
+<li><a href="#slidemenu" slide="three"><h4>Database Magic</h4></a></li></ul></div>
 <div id="slides" class="col-md-9">
 <div id="one">
 <ul>
@@ -74,5 +74,13 @@ It's something for all the family
 <li>SEM</li>
 </ul>
 </div>
-<div id="three" class="hide">we are showing 3</div></div>
+<div id="three" class="hide">
+<ul>
+<li>Database Design</li>
+<li>Database Management</li>
+<li>Database Hosting</li>
+<li>Database Programming</li>
+</ul>
+</div>
+</div>
 </row>
