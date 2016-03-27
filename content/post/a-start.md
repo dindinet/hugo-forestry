@@ -51,7 +51,7 @@ It's something for all the family
 <li><a href="#slidemenu" slide="one">
 <h4>Website Implementation</h4>
 </a></li>
-<li><a href="#slidemenu" slide="two ">Two</a></li>
+<li><a href="#slidemenu" slide="two "><h4>E-Marketing</h4></a></li>
 <li><a href="#slidemenu" slide="three">Three</a></li></ul></div>
 <div id="slides" class="col-md-9">
 <div id="one">
@@ -64,5 +64,15 @@ It's something for all the family
 <li>Hosting</li>
 </ul>
 </div>
-<div id="two" class="hide">We are showing 2</div><div id="three" class="hide">we are showing 3</div></div>
+<div id="two" class="hide">
+<ul>
+<li>Email 
+<li>A/B Testing</li>
+<li>Email Marketing - Message Distribution - List managment[tiny letter](http://tinyletter.com/) - [Mailchimp](https://mailchimp.com) - [Sendgrid](https://sendgrid.com/)
+<li>Content/Inbound Marketing Content Planning/Creation/Delivery</li>
+<li>Document Distribution</li>
+<li>SEM</li>
+</ul>
+</div>
+<div id="three" class="hide">we are showing 3</div></div>
 </row>
