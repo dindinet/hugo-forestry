@@ -49,9 +49,11 @@ It's something for all the family
 <div id="slidemenu" class="col-md-9"><div id="one">We are showing one</div><div id="two" class="hide">We are showing 2</div><div id="three " class="hide">we are showing 3</div></div>
 </row>
 <script>
+//<![CDATA[
 $('#slidemenu a').on("click",function(){
 var clicker = $(this).attr("slide");
 $('#slides div').addClass('hide');
 $('#'+clicker).addClass('show')
 });
+//]]>
 </script>
