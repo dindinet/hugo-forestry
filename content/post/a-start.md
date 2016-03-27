@@ -45,6 +45,13 @@ It's something for all the family
 ![](http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png)
 
 <row>
-<div class="col-md-3"><ul id="slidemenu"><li><a href="#slidemenu" slide="one">One</a></li><li><a href="#slidemenu" slide="two ">Two</a></li><li><a href="#slidemenu" slide="three">Three</a></li></ul></div>
-<div id="slides" class="col-md-9"><div id="one">We are showing one</div><div id="two" class="hide">We are showing 2</div><div id="three" class="hide">we are showing 3</div></div>
+<div class="col-md-3"><ul id="slidemenu"><li><a href="#slidemenu" slide="one">#### Website Implementation</a></li><li><a href="#slidemenu" slide="two ">Two</a></li><li><a href="#slidemenu" slide="three">Three</a></li></ul></div>
+<div id="slides" class="col-md-9"><div id="one">
+* SEO
+* Web Design - layout - graphic design - fonts - colors
+* Data Collection - Surveys - Form Handlers
+* E-Commerce
+* CMS
+* Hosting
+</div><div id="two" class="hide">We are showing 2</div><div id="three" class="hide">we are showing 3</div></div>
 </row>
