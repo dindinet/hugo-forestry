@@ -48,18 +48,20 @@ It's something for all the family
 <div class="col-md-3">
 <ul id="slidemenu">
 <li><a href="#slidemenu" slide="one">
-#### Website Implementation
+<h4>Website Implementation</h4>
 </a></li>
 <li><a href="#slidemenu" slide="two ">Two</a></li>
 <li><a href="#slidemenu" slide="three">Three</a></li></ul></div>
 <div id="slides" class="col-md-9">
 <div id="one">
-* SEO
-* Web Design - layout - graphic design - fonts - colors
-* Data Collection - Surveys - Form Handlers
-* E-Commerce
-* CMS
-* Hosting
+<ul>
+<li> SEO</li>
+<li>Web Design - layout - graphic design - fonts - colors</li>
+<li>Data Collection - Surveys - Form Handlers</li>
+<li>E-Commerce</li>
+<li>CMS</li>
+<li>Hosting</li>
+</ul>
 </div>
 <div id="two" class="hide">We are showing 2</div><div id="three" class="hide">we are showing 3</div></div>
 </row>
