@@ -50,6 +50,32 @@ It's something for all the family
 #slidemenu{list-style-type: none;}
 .slideopener{background-color: pink;padding: 12px;border-bottom:red 2px solid;}
 .slide ul li{list-style-type: none;}
+.banner-box {
+    width: 30%;
+    background: #fff;
+    float: left;
+    margin-right: 32px;
+}
+.banner-box table {
+    margin: 0;
+    border: none;
+    box-shadow: 0 2px 2px rgba(0,0,0,.24),0 0 2px rgba(0,0,0,.12);
+    border-collapse: separate;
+    border-spacing: 0;
+    border: 1px solid #2B85E7;
+}
+ .banner-box table tbody td {
+    padding: 8px 24px;
+    border: 1px solid rgba(207,216,220,.24);
+    text-align: left;
+    vertical-align: top;
+    display: table-cell;
+}
+.banner-box table td.learn-more {
+    padding: 8px 0 0 12px;
+    font-size: 12px;
+    font-weight: 600;
+}
 </style>
 <row>
 <div class="col-md-12">
@@ -57,6 +83,22 @@ It's something for all the family
 <li class="slideopener"><a href="#slidemenu" slide="one"><h4>Website Implementation</h4></a></li>
 <li id="one" class="slide">
 <div>
+<div class="banner-box">
+         <table>
+           <tbody><tr>
+             <td rowspan="2">
+                S E O
+              </td>
+             <td>
+               <h3>SEO</h3>
+               <p>Help your content to get found on the web</p>
+            </td>
+           </tr>
+           <tr>
+             <td class="learn-more"><a href="https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;utm_medium=google&amp;utm_content=homepage&amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;utm_term=outbound" track-type="keepReading" track-name="next2016" track-metadata-position="body">WATCH THE KEYNOTES</a></td>
+          </tr>
+        </tbody></table>
+      </div>
 <ul>
 <li> SEO</li>
 <li>Web Design - layout - graphic design - fonts - colors</li>
