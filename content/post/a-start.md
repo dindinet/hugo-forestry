@@ -90,7 +90,7 @@ It's something for all the family
 <table><tbody><tr><td rowspan="2">Data Collection</td><td><h3>Data Collection</h3><p>Surveys - Form Handlers</p></td></tr><tr><td class="learn-more"><a href="https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;utm_medium=google&amp;utm_content=homepage&amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;utm_term=outbound" track-type="keepReading" track-name="next2016" track-metadata-position="body">MORE...</a></td></tr>
 </tbody></table>
 </div>
-<ul>
+
 <div class="banner-box col-md-4">
 <table><tbody><tr><td rowspan="2"> E-Commerce</td><td><h3>E-Commerce</h3><p>Sell your products and services to the world</p></td></tr><tr><td class="learn-more"><a href="https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;utm_medium=google&amp;utm_content=homepage&amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;utm_term=outbound" track-type="keepReading" track-name="next2016" track-metadata-position="body">MORE...</a></td></tr></tbody></table>
 </div>
