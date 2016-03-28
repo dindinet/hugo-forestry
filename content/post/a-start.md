@@ -46,11 +46,15 @@ It's something for all the family
 ### E-Book - What You Have To Do
 
 ![](http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png)
-
+<style>
+#slidemenu{list-style-type: none;}
+.slideopener{background-color: pink;padding: 12px;}
+.slide ul li{list-style-type: none;}
+</style>
 <row>
 <div class="col-md-12">
 <ul id="slidemenu">
-<li><a href="#slidemenu" slide="one"><h4>Website Implementation</h4></a></li>
+<li class="slideopener"><a href="#slidemenu" slide="one"><h4>Website Implementation</h4></a></li>
 <li id="one" class="slide">
 <div>
 <ul>
@@ -63,7 +67,7 @@ It's something for all the family
 </ul>
 </div>
 </li>
-<li><a href="#slidemenu" slide="two "><h4>E-Marketing</h4></a></li>
+<li class="slideopener"><a href="#slidemenu" slide="two "><h4>E-Marketing</h4></a></li>
 <li id="two" class="slide hide">
 <div>
 <ul>
@@ -76,7 +80,7 @@ It's something for all the family
 </ul>
 </div>
 </li>
-<li><a href="#slidemenu" slide="three"><h4>Database Magic</h4></a></li>
+<li class="slideopener"><a href="#slidemenu" slide="three"><h4>Database Magic</h4></a></li>
 <li id="three" class="slide hide">
 <div>
 <ul>
