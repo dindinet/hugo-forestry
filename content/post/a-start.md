@@ -51,10 +51,8 @@ It's something for all the family
 .slideopener{background-color: pink;padding: 12px;border-bottom:red 2px solid;}
 .slide ul li{list-style-type: none;}
 .banner-box {
-    width: 30%;
     background: #fff;
     float: left;
-    margin-right: 32px;
 }
 .banner-box table {
     margin: 0;
@@ -62,7 +60,6 @@ It's something for all the family
     box-shadow: 0 2px 2px rgba(0,0,0,.24),0 0 2px rgba(0,0,0,.12);
     border-collapse: separate;
     border-spacing: 0;
-    border: 1px solid #2B85E7;
 }
  .banner-box table tbody td {
     padding: 8px 24px;
@@ -83,7 +80,7 @@ It's something for all the family
 <li class="slideopener"><a href="#slidemenu" slide="one"><h4>Website Implementation</h4></a></li>
 <li id="one" class="slide">
 <div>
-<div class="banner-box">
+<div class="banner-box col-md-4">
          <table>
            <tbody><tr>
              <td rowspan="2">
