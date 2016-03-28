@@ -285,6 +285,6 @@ jQuery(document).ready(function(){
 });
 $('#slidemenu a').on("click",function(){
 var clicker = $(this).attr("slide");
-$('#slides div').addClass('hide').removeClass('show');
+$('.slide').addClass('hide').removeClass('show');
 $('#'+clicker).removeClass('hide').addClass('show')
 });
