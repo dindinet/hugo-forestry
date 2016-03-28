@@ -48,14 +48,47 @@ It's something for all the family
 ![](http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png)
 
 <row>
-<div class="col-md-3">
+<div class="col-md-12">
 <ul id="slidemenu">
-<li><a href="#slidemenu" slide="one">
-<h4>Website Implementation</h4>
-</a></li>
+<li><a href="#slidemenu" slide="one"><h4>Website Implementation</h4></a></li>
+<li id="one" class="slide">
+<div>
+<ul>
+<li> SEO</li>
+<li>Web Design - layout - graphic design - fonts - colors</li>
+<li>Data Collection - Surveys - Form Handlers</li>
+<li>E-Commerce</li>
+<li>CMS</li>
+<li>Hosting</li>
+</ul>
+</div>
+</li>
 <li><a href="#slidemenu" slide="two "><h4>E-Marketing</h4></a></li>
-<li><a href="#slidemenu" slide="three"><h4>Database Magic</h4></a></li></ul></div>
-<div id="slides" class="col-md-9">
+<li id="two" class="slide hide">
+<div>
+<ul>
+<li>Email 
+<li>A/B Testing</li>
+<li>Email Marketing - Message Distribution - List managment[tiny letter](http://tinyletter.com/) - [Mailchimp](https://mailchimp.com) - [Sendgrid](https://sendgrid.com/)
+<li>Content/Inbound Marketing Content Planning/Creation/Delivery</li>
+<li>Document Distribution</li>
+<li>SEM</li>
+</ul>
+</div>
+</li>
+<li><a href="#slidemenu" slide="three"><h4>Database Magic</h4></a></li>
+<li id="three" class="slide hide">
+<div>
+<ul>
+<li>Database Design</li>
+<li>Database Management</li>
+<li>Database Hosting</li>
+<li>Database Programming</li>
+</ul>
+</div>
+</li>
+</ul></div>
+<!--<div id="slides" class="col-md-9">
 <div id="one">
 <ul>
 <li> SEO</li>
@@ -83,6 +116,6 @@ It's something for all the family
 <li>Database Hosting</li>
 <li>Database Programming</li>
 </ul>
-</div>
+</div> -->
 </div>
 </row>
