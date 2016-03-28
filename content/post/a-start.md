@@ -48,7 +48,7 @@ It's something for all the family
 ![](http://forestry.io/sites/2jeh6oxlgcpouq/image/%2Fshare%2Fpowered-by-hugo.png)
 <style>
 #slidemenu{list-style-type: none;}
-.slideopener{background-color: pink;padding: 12px;}
+.slideopener{background-color: pink;padding: 12px;border-bottom:red 2px solid;}
 .slide ul li{list-style-type: none;}
 </style>
 <row>
