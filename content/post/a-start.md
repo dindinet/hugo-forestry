@@ -85,7 +85,7 @@ It's something for all the family
 <div>
 <div class="banner-box col-md-4">
 <table><tbody><tr><td rowspan="2"> <img src="//cloud.google.com/images/home/gcp-logo.png"/></td><td><h3>SEO</h3><p>Help your content to get found on the web</p></td></tr><tr><td class="learn-more"><a href="https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;utm_medium=google&amp;utm_content=homepage&amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;utm_term=outbound" track-type="keepReading" track-name="next2016" track-metadata-position="body">MORE...</a></td></tr></tbody></table> 
-
+</div>
 
  <div class="banner-box col-md-4">
 <table><tbody><tr><td rowspan="2"><img src="//cloud.google.com/images/home/gcp-logo.png"/></td><td><h3>Web Design</h3><p>Layout - Fonts - Colors - Images - Responsive</p></td></tr><tr><td class="learn-more"><a href="https://cloudwebinars.withgoogle.com/live/next-live/?utm_source=cloud.google.com&amp;utm_medium=google&amp;utm_content=homepage&amp;utm_campaign=2016-cloud-na-event-next-userconf-web-hpp-cgc&amp;utm_term=outbound" track-type="keepReading" track-name="next2016" track-metadata-position="body">MORE...</a></td></tr>
