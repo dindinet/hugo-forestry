@@ -53,7 +53,7 @@ It's something for all the family
 .banner-box {
     background: #fff;
     float: left;
-    height: 200px;
+    min-height: 200px;
 }
 .banner-box table {
     margin: 0;
