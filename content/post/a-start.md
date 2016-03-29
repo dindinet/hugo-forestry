@@ -53,7 +53,6 @@ It's something for all the family
 .banner-box {
     background: #fff;
     float: left;
-    min-height: 200px;
 }
 .banner-box table {
     margin: 0;
@@ -61,6 +60,7 @@ It's something for all the family
     box-shadow: 0 2px 2px rgba(0,0,0,.24),0 0 2px rgba(0,0,0,.12);
     border-collapse: separate;
     border-spacing: 0;
+    min-height: 200px;
 }
  .banner-box table tbody td {
     padding: 8px 24px;
