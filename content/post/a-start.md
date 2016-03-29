@@ -61,6 +61,7 @@ It's something for all the family
     border-collapse: separate;
     border-spacing: 0;
     min-height: 200px;
+    min-width: 392px;
     padding: 4px;
 }
  .banner-box table tbody td {
