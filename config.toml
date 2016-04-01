@@ -5,17 +5,21 @@ pluralizelisttitles = false
 title = "Hugo Forestry"
 [blackfriday]
 plainIdAnchors = true
+[[menu.main]]
+name = "Download Hugo"
+pre = "<i class='fa fa-download'></i>"
+url = "https://github.com/spf13/hugo/releases"
+weight = -200
+[[menu.main]]
+name = "Showcase"
+pre = "<i class='fa fa-cubes'></i>"
+url = "/showcase/"
+weight = -180
+[[menu.main]]
+name = "MaxGoldHouse"
+url = "https://www.maxgoldhouse.com"
+weight = -179
 [sitemap]
 ChangeFreq = ""
 Filename = "sitemap.xml"
 Priority = "-1"
-[[menu.main]]
-    name = "Download Hugo"
-    pre = "<i class='fa fa-download'></i>"
-    url = "https://github.com/spf13/hugo/releases"
-    weight = -200
-[[menu.main]]
-    name = "Showcase"
-    pre = "<i class='fa fa-cubes'></i>"
-    url = "/showcase/"
-    weight = -180

@@ -1,7 +1,8 @@
-ID: 124
-ref: DH4-V2365
-"Short Description": "A large villa in a walled garden complex"
+---
 Features:
-  - "Private pool"
-  - "Secure compund"
-  - "Solar Power"
+- Private pool
+- Secure compund
+- Solar Power
+ID: '124'
+Short Description: A large villa in a walled garden complex
+ref: DH4-V2365
