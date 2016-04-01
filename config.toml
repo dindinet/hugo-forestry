@@ -15,10 +15,6 @@ name = "Showcase"
 pre = "<i class='fa fa-cubes'></i>"
 url = "/showcase/"
 weight = -180
-[[menu.main]]
-name = "MaxGoldHouse"
-url = "https://www.maxgoldhouse.com"
-weight = -179
 [sitemap]
 ChangeFreq = ""
 Filename = "sitemap.xml"
