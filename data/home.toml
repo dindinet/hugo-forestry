@@ -1,9 +1,7 @@
 [author]
-  name = "digitalcraftsman"
-  homepage = "//github.com/digitalcraftsman"
-
-# If porting an existing theme
+homepage = "//github.com/digitalcraftsman"
+name = "digitalcraftsman"
 [block1]
-  heading = "Elena and Nico at Wirlow Farm Feb 2016"
-  thumb = "https://lh3.googleusercontent.com/-9Y6dyi9-xFg/VrtLEv5i4yI/AAAAAAAAMu8/qsa4TmSbtAkKq2KWJFiGBMzVds7I7gy9gCCo/s80-c-Ic42/IMG_20160210_122923596_HDR.jpg"
-  description = "We can see you now you have come out from behind that template"
+description = "We can see you now you have come out from behind that template"
+heading = "Elena and Nico at Whirlow Farm Feb 2016"
+thumb = "//lh3.googleusercontent.com/-9Y6dyi9-xFg/VrtLEv5i4yI/AAAAAAAAMu8/qsa4TmSbtAkKq2KWJFiGBMzVds7I7gy9gCCo/s80-c-Ic42/IMG_20160210_122923596_HDR.jpg"
