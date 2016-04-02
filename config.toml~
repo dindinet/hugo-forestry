@@ -5,3 +5,4 @@ pluralizelisttitles = false
 title = "Hugo Forestry"
 [blackfriday]
 plainIdAnchors = true
+

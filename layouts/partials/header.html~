@@ -43,7 +43,7 @@
       </header>
       <!--header end-->
 
-<!-- partial "menu.html" \.  -->
+<!--{{ empartial "menu.html" \. }} -->
 
       <!--main content start-->
       <section id="main-content">
