@@ -1,9 +1,9 @@
-[author]
-  name = "digitalcraftsman"
-  homepage = "//github.com/digitalcraftsman"
+author
+ - name = "digitalcraftsman"
+ - homepage = "//github.com/digitalcraftsman"
 
 # If porting an existing theme
-[original]
-  name = "David Miller"
-  homepage = "//www.ironsummitmedia.com/"
-  repo = "//github.com/IronSummitMedia/startbootstrap-creative"
+original
+ - name = "David Miller"
+ - homepage = "//www.ironsummitmedia.com/"
+ - repo = "//github.com/IronSummitMedia/startbootstrap-creative"
