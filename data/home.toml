@@ -3,7 +3,7 @@
   homepage = "//github.com/digitalcraftsman"
 
 # If porting an existing theme
-[original]
-  name = "David Miller"
-  homepage = "//www.ironsummitmedia.com/"
-  repo = "//github.com/IronSummitMedia/startbootstrap-creative"
+[block1]
+  heading = "Elena and Nico at Wirlow Farm Feb 2016"
+  thumb = "https://lh3.googleusercontent.com/-9Y6dyi9-xFg/VrtLEv5i4yI/AAAAAAAAMu8/qsa4TmSbtAkKq2KWJFiGBMzVds7I7gy9gCCo/s80-c-Ic42/IMG_20160210_122923596_HDR.jpg"
+  description = "We can see you now you have come out from behind that template"
