@@ -5,3 +5,7 @@ pluralizelisttitles = false
 title = "Hugo Forestry"
 [blackfriday]
 plainIdAnchors = true
+[sitemap]
+ChangeFreq = ""
+Filename = "sitemap.xml"
+Priority = "-1"
