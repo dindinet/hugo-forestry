@@ -1,6 +1,6 @@
 [params]
 description = "Your description"
-favicon = "img/seo3-1.png"
+favicon = "//lh3.googleusercontent.com/-soCT1s4ImHc/VvwrhHd-6kI/AAAAAAAAACY/me8BK2XvGFMGCD-1odZkd_5LiSi1O-g1gCCo/s100-Ic42/seo3.png"
 name = "Your name"
 	# Hero section
 [params.hero]
