@@ -20,12 +20,12 @@
             </a>
                 <ul class="sub{{if $currentNode.HasMenuCurrent "main" . }} open{{end}}">
                     {{ range .Children }}
-                    <li{{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}><a href="{{}}"> {{ .Name }} </a> </li> <!-- .Url -->
+                    <li{{if $currentNode.IsMenuCurrent "main" . }} class="active"{{end}}><a href=""> {{ .Name }} </a> </li> <!-- .Url -->
                     {{ end }}
                 </ul>
               {{else}}
                 <li>
-                <a class="" href="{{ }}"> <!-- .Url -->
+                <a class="" href=""> <!-- .Url -->
                     {{ .Pre }}
                     <!--<i class="icon_house_alt"></i>-->
                     <span>{{ .Name }}</span>
