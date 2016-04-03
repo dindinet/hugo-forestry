@@ -1,8 +1,0 @@
-baseurl = "http://hugo.dindi.net"
-languagecode = "en-us"
-metadataformat = "yaml"
-pluralizelisttitles = false
-title = "Hugo Forestry"
-[blackfriday]
-plainIdAnchors = true
-
