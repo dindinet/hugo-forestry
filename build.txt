@@ -4,4 +4,8 @@
 0 paginator pages created
 0 tags created
 0 categories created
-in 29 ms
+in 21 ms
+Watching for changes in /home/papo/sites/hugone/{data,content,layouts,static}
+Serving pages from memory
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
