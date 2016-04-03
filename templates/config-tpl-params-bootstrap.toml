@@ -4,7 +4,7 @@
 [params]
     # You can use markdown here.
     brand = "Hugo"
-    topline = "Make the Web Fun Again"
+    topline = "All your bases rare us"
     footline = "Coded with <i class='fa fa-heart'></i>"
 
     # Text for the top menu link, which goes the root URL for the site.
