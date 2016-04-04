@@ -1,8 +1,15 @@
-what do you want from a website?
+### What?
+If you are in need of a better on-line presence for your organisation then relax, using our tried and tested approach to on-line marketing and web development your organisation can reach more interested buyers, more subscribers or more supporters to your cause. Once you are up and running with your new web presence and accompanying tools you and your team will feel like you have been blessed with new super powers.  New super powers combined with robust, dependable technology gets you achieving more with less.
 
-More customers or mange the ones you have better
-Low Cost Of Entry
-Reach - Market our services
+### How?
+The process of developing a better on-line presence normally requires a fresh look at the organisation and a reassessment of the business goals. This can have a very positive and energising effect on the whole organisation.
+
+A website allows you to market your products and services to a bigger audience more quickly and cheaply than ever before in history. If you want: more customers or simply wish to spend less time and effort managing the ones you have, more suscribers to your newsletter, blog or youtube channel, then I can help.
+
+ 
+
+
+
 24 hours a day
 Get found
 Get seen
