@@ -2,7 +2,7 @@ what do you want from a website?
 
 More customers or mange the ones you have better
 Low Cost Of Entry
-Reach
+Reach - Market our services
 24 hours a day
 Get found
 Get seen
