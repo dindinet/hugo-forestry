@@ -1,5 +1,5 @@
 ### What?
-If you are in need of a better on-line presence for your organisation then relax, using our tried and tested approach to on-line marketing and web development your organisation can reach more interested buyers, more subscribers or more supporters to your cause. Once you are up and running with your new web presence and accompanying tools you and your team will feel like you have been blessed with new super powers.  New super powers combined with robust, dependable technology gets you achieving more with less.
+If you are in need of a better on-line presence for your organisation then relax, using our tried and tested approach to on-line marketing and web development your organisation can reach more interested buyers, more subscribers or more supporters to your cause. Once you are up and running, with your new web presence and accompanying tools, you and your team will feel like you have been blessed with new super powers.  New super powers combined with robust, dependable technology gets you achieving more with less.
 
 ### How?
 The process of developing a better on-line presence normally requires a fresh look at the organisation and a reassessment of the business goals. This can have a very positive and energising effect on the whole organisation.
