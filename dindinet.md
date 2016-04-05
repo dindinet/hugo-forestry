@@ -18,7 +18,15 @@ A website allows you to market your products and services to a bigger audience m
  Speed Size Influence
 
 ### Web Design
-Our approach to web design is driven by your business goals. Once we are clear on the purpose of your web prescence we design a delivery platform that will have the best chance of  attaining your goals.
+Our approach to web design is driven by your business goals. Once the purpose of your web presence is clear we design a delivery platform that will have the best chance of  attaining your goals.
+
+As you are probably well aware a modern website must display on more platforms on a multitude of screen sizes and be delivered over networks that are slower than you or I are used to. In the 21st century some parts of Europe are only served by un-reliable and slow connections. If you run a business in one of these locations or have customers in these locations then this will effect the overall design and implementation of your project. On the other hand, if you know that your audience are sitting in offices in front of large screen workstations running the latest browser software connecting via super fast broadband decisions you know you can be more extravogant in the kind of content you wish to deliver. 
+
+You may have the budget to create multiple web prescences targeted at multiple audiences. whatever your situation rest assured we will focus on delivering the most appropriate sollution.
+
+A good general approach is to build a website using the "mobile first approach" that works wonderfully well on small screens and then add further content when a larger screen is detected. The mobile first approach delivers the smallest load possible to achieve the projects gold without making the mobile user wait.
+
+
 an envelope/package and it's contents
 How much do you know about your audience
 Looking Good - Looking right Screen sizes - mobile connections - browser befuddled
