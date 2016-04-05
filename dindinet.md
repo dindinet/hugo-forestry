@@ -7,7 +7,7 @@ However, with tools such as a Content Management System (CMS), blogging, email l
 
 The process of developing a better on-line presence normally requires a fresh look at the organisation and a reassessment of the goals you wish to achieve. This can have a very positive and energising effect on the whole organisation.
 
-Once you are up and running, with your new internet presence and accompanying tools, you and your team will feel like you have acquired super powers.  Your new super powers combined with robust, dependable technology gets you achieving more with less.
+Once you are up and running, with your fresh internet presence and accompanying tools, you and your team will feel like you have acquired super powers.  Your new super powers combined with robust, dependable technology gets you achieving more with less.
 
 Technology is a tool for real growth. Organisations that were once dominant can be displaced by much smaller organisations with a good idea and the drive to implement it. Technology has never been cheaper or more accessible. Thanks mainly to advances in cloud computing even the smallest organisation can compete and become a dominant player in their industry. {The cloud model allows you to pay for what you use. You can quickly spin up more resources when needed and turn thatem off again with the same speed.
 
