@@ -1,10 +1,15 @@
 ### What?
-If you are in need of a better on-line presence for your organisation then relax, using our tried and tested approach to on-line marketing and web development your organisation can reach more interested buyers, add more subscribers to your list or attract more supporters to your cause. 
-Your on-line presence can start with something as simple as a one page website with information about your organisation and a call to action. This simplae start can achieve much, especially for those who have never previously taken the plunge. However, with tools such as a content managment system(CMS), blogging, email list managment and comprehensive analytics tools being  easily accessible at no or low cost taking the step into more proactive on-line marketing has never been easier. The power of these tools has a levelling effect with smaller organisations able to compete with and even overhaul much bigger players in their niche. 
+If you are in need of a better on-line presence for your organisation, then relax. Using our tried and tested approach to on-line marketing and web development your organisation can reach more interested buyers, add more subscribers to your list or attract more supporters to your cause. 
+
+Your on-line presence can be as simple as a one-page website with information about your organisation and a call to action. This simple start can achieve a lot, especially for those who have never previously taken the plunge.
+
+However, with tools such as a Content Management System (CMS), blogging, email list management and comprehensive analytics tools being  easily accessible at no or low cost taking the step into more proactive on-line marketing has never been easier. The power of these tools has a levelling effect allowing smaller organisations to compete with  - and even overhaul - much bigger players in their niche. 
 
 The process of developing a better on-line presence normally requires a fresh look at the organisation and a reassessment of the goals you wish to achieve. This can have a very positive and energising effect on the whole organisation.
 
-Once you are up and running, with your new internet presence and accompanying tools, you and your team will feel like you have been blessed with super powers.  New super powers combined with robust, dependable technology gets you achieving more with less.
+Once you are up and running, with your new internet presence and accompanying tools, you and your team will feel like you have acquired super powers.  Your new super powers combined with robust, dependable technology gets you achieving more with less.
+
+Technology is a tool for real growth. Organisations that were once dominant can be displaced by much smaller organisations with a good idea and the drive to implement it. Technology has never been cheaper or more accessible. Thanks mainly to advances in cloud computing even the smallest organisation can compete and become a dominant player in their industry. {The cloud model allows you to pay for what you use. You can quickly spin up more resources when needed and turn thatem off again with the same speed.
 
 ### How?
 The process of developing a better on-line presence normally requires a fresh look at the organisation and a reassessment of the business goals. This can have a very positive and energising effect on the whole organisation.
