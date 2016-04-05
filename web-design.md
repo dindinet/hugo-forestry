@@ -1,5 +1,5 @@
 ### Web Design
-Your business goals drive our approach to web design. Once the purpose of your web presence is clear we design a website that will focus on accomplishing your goals.
+Your business goals drive our approach to web design. Once the purpose of your web presence is clear we work with you to design and build a website that will focus on accomplishing your goals.
 
 As you are probably well aware a modern website must display on more platforms on a multitude of screen sizes and be delivered over networks that are slower than you or I are used to. In the 21st century some parts of the developed world are still only served by unreliable and slow connections. If you run a business in one of these locations or have customers in these locations then this will effect the overall design and implementation of your project. On the other hand, if you know that your audience are sitting in offices in front of large screen workstations running the latest browser software connecting via super fast broadband you know you can be more extravagant in the kind of content you wish to deliver. 
 
