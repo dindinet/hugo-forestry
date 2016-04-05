@@ -14,11 +14,22 @@ Technology is a tool for real growth. Organisations that were once dominant can 
 ### How?
 The process of developing a better on-line presence normally requires a fresh look at the organisation and a reassessment of the business goals. This can have a very positive and energising effect on the whole organisation.
 
-A website allows you to market your products and services to a bigger audience more quickly and cheaply than ever before in history. If you want: more customers or simply wish to spend less time and effort managing the ones you have, more suscribers to your newsletter, blog or youtube channel, then I can help.
+A website allows you to market your products and services to a bigger audience more quickly and cheaply than ever before in history. If you want: more customers or simply wish to spend less time and effort managing the ones you have, more suscribers to your newsletter, blog or youtube channel, then I can help. Web Design
+ Speed Size Influence
 
- 
-
-
+### Web Design
+Our approach to web design is driven by your business goals. Once we are clear on the purpose of your web prescence we design a delivery platform that will have the best chance of  attaining your goals.
+an envelope/package and it's contents
+How much do you know about your audience
+Looking Good - Looking right Screen sizes - mobile connections - browser befuddled
+Start mobile add for larger
+The importance of being different - stand out from the crowd - Search engines are blind - Search engines like words Search engines like the opinions of others
+The importance of being the same - less testing quicker turn around
+Being found search engines being found customers/supporters(SEO on -page)
+A web site need a purpose - what are your business goals - what are your customer needs desires.
+Live in the shoes of your intended reader.
+Preparing your content
+any odd cases - better to know now
 
 24 hours a day
 Get found
