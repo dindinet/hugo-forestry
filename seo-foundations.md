@@ -31,4 +31,4 @@ So we could say:
 > Offsite SEO is dependent upon a well designed and implemented website
 > with great content.
 
-Download our ebook and see chapters on *SEO*, *Content Strategy* and *Content Marketing*
+Download our E-book and see chapters on *SEO*, *Content Strategy* and *Content Marketing*
