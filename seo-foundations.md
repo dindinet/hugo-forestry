@@ -2,14 +2,13 @@
 
 
 ###What is Search Engine Optimisation (SEO)
-SEO is important to all businesses who want search engines to send visitors to their website. It doesn't matter if you run a small, local family business or a large public company. If your website is optimised for what someone types into the search engine your business will appear in the search results listing. How easy it is to get a prominent position listing will depend on how well you optimise for a particular search phrase and how many businesses are competing for that phrase. Chances are you will be competing on more than one phrase. And just having that phrase at the top of you web page does not constitute optimising. 
+SEO is important to all businesses who want search engines to send visitors to their website. It doesn't matter if you run a small, local family business or a large public company. If your website is optimised for what someone types into the search engine your business will appear in the search results listing. How easy it is to get a prominent position listing will depend on how well you optimise for a particular search phrase and how many businesses are competing for that phrase. Chances are you will be competing on more than one phrase. And just having that phrase at the top of you web page is not SEO. 
 
-So what is involved in SEO. 
-
-SEO is divided into 2 types. On page SEO and Off Page SEO. 
+So what is involved in SEO?
 
 SEO is divided into two main categories: On-site and off-site. On-site SEO consists of the elements (such as text and meta data) that exist on your website, and in your website’s HTML code, over which you have control. 
 
+###OnSite SEO
 Onsite SEO broadly consists of Design & Layout, coding and content.
 
 The Design & Layout of your website is important for SEO and more importantly for the experience of your website visitors. While the search engines cannot see the visual design  of your site they can see the structure. Navigation and page Layout should be well designed and structured to allow visitors to easily access the information they are looking for and instruct search engines how to index your pages.  
@@ -22,9 +21,12 @@ Google recommends to website owners that they should focus on website visitors a
 
 Onsite SEO is dependent upon a well designed and implemented website with great content. 
 
-Offsite SEO are all factors that influence your search engine rankings but are not on your website itself. This includes links to your content from other sites, reviews of your products, services or content on other websites and of course social network shares and mentions. Although these factors are offsite they are influenced heavily by your onsite SEO. Nobody will link to, share or give good reviews to poor quality content. 
+###Offsite SEO
+Offsite SEO includes all the factors that influence your website's search engine rankings but are not on the website itself. This includes links to your content from other sites, reviews of your products, services or content on other websites and of course social network shares and mentions. Although these factors are offsite they are influenced heavily by your onsite SEO. Nobody will link to, share or give good reviews to poor quality content. 
 
 So we could say that Offsite SEO is dependent upon a well designed and implemented website with great content.
+
+
 
 
 
